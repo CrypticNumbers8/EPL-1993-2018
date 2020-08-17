@@ -1,7 +1,7 @@
 # EPL-1993-2018
 Visualizing Trends of EPL Teams Performances
 
-Kaggle Dataset: https://www.kaggle.com/thefc17/epl-results-19932018
+Kaggle Dataset: https://www.kaggle.com/thefc17/epl-results-19932018 (with some minor changes in date column)
 
 (In Progress)
 
